@@ -1,5 +1,6 @@
+#Nicholas Plauda Candido
+
 from pydantic import BaseModel
-#Nicholas
 
 class Cliente(BaseModel):
     id_cliente: int = None

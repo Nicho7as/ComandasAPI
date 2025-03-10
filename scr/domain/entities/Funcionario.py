@@ -1,5 +1,6 @@
+#Nicholas Plauda Candido
+
 from pydantic import BaseModel
-#Nicholas
 
 class Funcionario(BaseModel):
     id_funcionario: int = None
